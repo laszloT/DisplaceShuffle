@@ -2,7 +2,7 @@ This shuffle class takes in a generic list of unique integers and shuffles them 
 
 
 The NaturalShuffle Function returns a shuffled list where it is entirely possible for a value 
-that occupies position N before the shuffle, to randomly shuffle to the same postiton N.    
+that occupies position N before the shuffle, to randomly shuffle to the same position N.    
 The same would be true of all the other items in the list leaving an "even" distribution of items 
 that did not move in the shuffle.  This is natural and fair, for example, when shuffling a deck of 
 cards, it is entirely possible for the "Ace of Spades" to be in the fourth position in the

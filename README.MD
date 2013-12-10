@@ -1,4 +1,4 @@
-This shuffle class takes in a generic list of unigue integers and shuffles them into a new list.
+This shuffle class takes in a generic list of unique integers and shuffles them into a new list.
 
 
 The NaturalShuffle Function returns a shuffled list where it is entirely possible for a value 
